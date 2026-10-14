@@ -1,0 +1,46 @@
+#Formulario {
+
+width: 300px;
+height: 250px;
+
+
+background-color: aqua;
+
+display: flex;
+
+align-items: center;
+justify-content: center;
+
+flex-direction: column;
+
+
+
+}
+
+#tag_formulario{
+  width: 300px;
+  height: 40px;
+  background-color: beige;
+
+  display: flex;
+
+  justify-content: center;
+  align-items: center;
+
+
+}
+
+
+.caixa{
+  margin: 10px;
+}
+
+.buttao{
+  margin:10px;
+}
+
+
+#salvar{
+  width: 80px;
+}
+
